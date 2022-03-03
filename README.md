@@ -1,11 +1,7 @@
 # Assignment 1
 
   
-name: Yunjie Zhang 
-
-number: 20872676 
-
-id: y3446zha
+name: eatpok fngtm 
 
 
 ## How to run my code:
